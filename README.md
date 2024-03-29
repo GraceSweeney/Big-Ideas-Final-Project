@@ -9,4 +9,6 @@ Grace Sweeney GDS30@pitt.edu
 
 ### Description and links to the datasets used
 
+Pittsburgh Police Arrest Data: https://data.wprdc.org/dataset/arrest-data
+
 ### A one sentence overview of your repository, meant for someone who is not familiar with the project
