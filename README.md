@@ -23,7 +23,7 @@ Pittsburgh Speed Humps Data: https://data.wprdc.org/dataset/city-of-pittsburgh-s
 
 Pittsburgh Police Firearm Seizures Data: https://data.wprdc.org/dataset/pbp-fire-arm-seizures
 
-*This data set includes the counts of firearms by type seized by the police per neighborhood. *
+*This data set includes the counts of firearms by type seized by the police per neighborhood.*
 
 City of Pittsburgh Neighborhood Population 2020: https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/a8414ed5-c50f-417e-bb67-82b734660da6
 
