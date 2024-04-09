@@ -39,5 +39,7 @@ This repository contains a comprehensive analysis of the safest neighborhood in 
 ### Individual Notebooks:
 
 Grace Sweeney: graces.ipynb
+
 Grace Logue: graceL-proj.ipynb
+
 Andreea Toader: andreea.ipynb
